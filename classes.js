@@ -15,6 +15,7 @@ class student{
 //we use dot operator 
 
 const nikhil=new student(1,"nikhil don he",50,"gym trainer");
+
 const bhariporagi=new student(2,"nikhil chi crush",19,"client of nikhil");
 //to access the name and age of bhariporagi we use bhariporagi.age
 console.log(bhariporagi.name,bhariporagi.age);

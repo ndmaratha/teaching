@@ -8,7 +8,23 @@ const student={
     },
 };
 
+const person={
+ name:"bsburav",
+ age:19,
+ greeting(){
+    console.log("hello ok");
+ },
+
+ a:{
+ s:"hi",
+ y:{
+    abc:'nd',
+ },
+ },
+};
+
 //we access the object using dot. operator
-//syntax of object is const obj={}
+//syntax of object is const obj={};
 //we use collon : to assign values
+console.log(person.a.y.abc);
 console.log("this is a roll no of nikhil",student.rolono);
