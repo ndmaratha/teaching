@@ -1,0 +1,36 @@
+
+.two{
+    color: black;
+}
+.two:hover{
+    background-color: blue;
+}
+body{
+    background-color: violet;
+}
+
+.wow{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+    color: black;
+}
+.wow:hover{
+    background-color: brown;
+    margin-left: 2rem;
+}
+
+.container{
+    display: flex;
+}
+.pra{
+    height: 400px;
+    width: 400px;
+    font-size: 2em;
+    overflow: scroll;
+    color: brown;
+    background-color: red;
+}
+button:hover{
+ color: rebeccapurple;
+}
