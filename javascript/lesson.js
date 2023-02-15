@@ -24,3 +24,10 @@ console.log(developer.name,"ki");
 console.log(developer.greeting());
 
 
+const khichadi={
+masala:"suhana masala",
+veg:[1,2,'THREE',3.0,true],
+}
+
+console.log("hamare ghar me ",khichadi.masala,"se khichdi banati he");
+

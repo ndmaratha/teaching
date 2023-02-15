@@ -9,7 +9,7 @@ const student={
 };
 
 const person={
- name:"bsburav",
+ name:"baburav",
  age:19,
  greeting(){
     console.log("hello ok");
