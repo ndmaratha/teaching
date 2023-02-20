@@ -8,6 +8,10 @@
 //Styntax  let/const object_name={code}
 //we access the values of object with .dot operator 
 // as shown in line no 22
+
+var a
+let b
+const c=12
 const developer={
  name:"lalu painter", 
  age:19,
@@ -31,3 +35,7 @@ veg:[1,2,'THREE',3.0,true],
 
 console.log("hamare ghar me ",khichadi.masala,"se khichdi banati he");
 
+let human={
+   name:"nd",
+   age:19,
+}
